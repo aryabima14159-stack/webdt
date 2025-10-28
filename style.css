@@ -1,8 +1,10 @@
 body {
   background-color: #000000; /* warna AliceBlue */
+  font-family: Arial;
+  color: #191970;
 }
 .kartu profil {
-  width: 150px;
+  width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
   background-color: white;
